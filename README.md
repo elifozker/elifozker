@@ -1,8 +1,10 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Elif</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hey! Nice to see you.</h1>
+<h3 align="center">Welcome to my page!</h3>
+<h3>I'm Elif, Fullstack developer from Turkey</h3>
+<p align="center">Also </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifozker&label=Profile%20views&color=0e75b6&style=flat" alt="elifozker" /> </p>
 
