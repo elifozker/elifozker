@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifozker&" alt="elifozker" /></p>
 
--->
+
