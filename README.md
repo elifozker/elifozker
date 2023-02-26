@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <h1 align="center">Hi 👋, I'm Elif</h1>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **React Native Food Delivery App**
 
-- 👨‍💻 All of my projects are available at [my repositories](my repositories)
+- 👨‍💻 All of my projects are available at my repositories
 
 - 📫 How to reach me **elifozker@icloud.com**
 
