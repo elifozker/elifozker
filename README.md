@@ -10,9 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/elodatjs" target="blank"><img src="https://img.shields.io/twitter/follow/elodatjs?logo=twitter&style=for-the-badge" alt="elodatjs" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Food Delivery App**
 
-- 👨‍💻 All of my projects are available at my repositories
 
 - 📫 How to reach me **elifozker@icloud.com**
 
